@@ -45,7 +45,7 @@ public class TalkActivity extends AppCompatActivity {
             public void run() {
 
                 String serverUrl="http://mrhi2018.dothome.co.kr/Android/loadDB.php";
-
+                //"http://mrhi2018.dothome.co.kr/Android/loadDB.php"
                 try {
                     URL url= new URL(serverUrl);
 
